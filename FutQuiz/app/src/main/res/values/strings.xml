@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Fut Quiz</string>
+    <string name="let_s_win_the_champions_ask">Let\'s win the champions ask!</string>
+    <string name="guess_the_answer_as_yo_think">Guess the answer as yo think</string>
+    <string name="si">Si</string>
+    <string name="no">No</string>
+    <string name="siquiente">Siquiente</string>
+</resources>
