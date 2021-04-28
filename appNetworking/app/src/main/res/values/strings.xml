@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">appNetworking</string>
+    <string name="mostrar_chiste">Mostrar Chiste</string>
+    <string name="michiste">michiste</string>
+</resources>
